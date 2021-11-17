@@ -55,7 +55,7 @@
 #if defined(__MINGW32__)
  #define PROPSHEETHEADER_V1_SIZE 40
 #else
- #include "w32crt.h"
+// #include "w32crt.h"
 #endif
 
 #include "cencode.h"
@@ -161,7 +161,7 @@ extern atoi(const char*);
 #define STR_URL _T("http://liquidninja.com/metapad")
 #define STR_REGKEY _T("SOFTWARE\\metapad")
 #define STR_FAV_APPNAME _T("Favourites")
-#define STR_COPYRIGHT _T("© 1999-2011 Alexander Davidson")
+#define STR_COPYRIGHT _T("?1999-2011 Alexander Davidson")
 
 ///// Macros /////
 

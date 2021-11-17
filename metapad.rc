@@ -1078,7 +1078,6 @@ BEGIN
     IDS_DEFAULT_FILTER_TEXT "Text (*.*)|*.*"
     IDS_NEW_FILE            "new file"
     IDS_MACRO_LENGTH_ERROR  "Selection is larger than maximum quick buffer length."
-    IDS_NEW_INSTANCE        "New Window"
 END
 
 #endif    // English (U.S.) resources

@@ -3,3 +3,6 @@
 Makefile.win
 metapad.layout
 metapad.dev
+.vs
+Debug
+Release
